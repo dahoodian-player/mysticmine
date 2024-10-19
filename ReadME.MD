@@ -1,3 +1,3 @@
 # Credits:
-FQQD
-RealVivaMC (Editor)
+- FQQD
+## RealVivaMC (Editor)
